@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="861" alt="Screen Shot 2021-02-09 at 7 39 50 PM" src="https://user-images.githubusercontent.com/1020608/107461390-b9737d80-6b0e-11eb-84c8-6cbb6cb51b3f.png">
+
+This project demonstrate the use of canvas API, it renders a group of images on the canvas, you can drag the images around and the one being dragged will
+be put on top of others, it also implements the boundaries so that the image will not be dragged outside of the boundary
+
 ## Available Scripts
 
 In the project directory, you can run:
